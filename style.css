@@ -1,0 +1,133 @@
+body{
+    background:whitesmoke;
+    font-family:"sans-serif"
+    line-height:1.5;
+    margin:0;
+    width:20px;
+    box-sizing:content-box;
+    width:100%;
+    padding: 0;
+    font-size:  20px;
+
+
+}
+
+
+.logo{
+    text-align:center;
+    background: pink;
+    color: blue;
+    font-size: 35px;
+    font-family: Arial;
+    padding: 20px;
+    padding: 20px;
+    font-weight: bold;
+    
+}
+
+.div{
+	width:100%;
+    background-position:center;
+    background-size: cover;
+    height:109vh;
+}
+
+
+
+footer{
+    background-color:black;
+    font-family:"display";
+    color:white;
+    text-align: center;
+}
+.image{
+    background-color:whitesmoke;
+    text-align: center;
+    
+}
+.pics{
+    background-color: pink;
+}
+nav {
+    text-align: center;
+    padding: 1%;
+    background-color: maroon;
+    text-decoration: bold; 
+
+}
+nav a {
+    text-decoration: bold;
+    color: white;
+    padding: 10%;
+}
+.prdt1{
+    width: 100%;
+    padding-bottom: 60px;
+    text-align: center;
+}
+.prdt1 img {
+    border-radius: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.images2{
+    width: 100%;
+    padding-bottom: 60px;
+    text-align: center;
+    background-color: grey;
+
+
+}
+.images2 img{
+    border-radius: 15px;
+    width: 200px;
+    height: 200px;
+}
+.pics{
+   width: 100%;
+    padding-bottom: 60px;
+    text-align: center;
+     
+}
+.pics img{
+    border-radius: 15px;
+    width: 200px;
+    height: 200px;
+
+}
+.logo1{
+    text-align: center;
+
+}
+.comment-box{
+    padding: 50px;
+    margin: 50px 0;
+    background-color: yellow;
+    border: 10px solid #ccc;
+    width:50%;
+    height:50%;
+    margin: left;
+    
+}
+form{
+    dispaly:flex;
+    flex-direction: column;
+    size:500px;
+
+}
+label{
+    margin-bottom:8px;
+
+}
+textarea{
+    resize: vertical;
+}
+.nav 1{
+    text-align: center;
+    padding: 2%;
+    background-color: maroon;
+    text-decoration: bold;
+
+}
+
